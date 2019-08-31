@@ -18,6 +18,7 @@
    1. add*
    1. commit -am*
    1. push*
+   1. status*
    1. branch
    1. merge
    1. init
